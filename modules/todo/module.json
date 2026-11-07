@@ -1,6 +1,6 @@
 {
   "id": "todo",
-  "name": "记事本",
+  "name": "todo引擎",
   "version": "v1.0",
   "description": "定时待办与可选的早晚问候计划",
   "category": "tool",

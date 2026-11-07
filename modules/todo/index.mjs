@@ -17,7 +17,7 @@ import { createTodoBook } from './todo.mjs'
 /** @type {import('../aurabot').AurabotModule} */
 export default {
   id: 'todo',
-  name: '记事本',
+  name: 'todo引擎',
   version: 'v1.0',
   api: 1,
   description: '到点自动把念头送到指定聊天；支持次数、每天重复',
