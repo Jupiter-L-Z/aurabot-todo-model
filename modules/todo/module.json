@@ -1,6 +1,6 @@
 {
   "id": "todo",
-  "name": "todo引擎",
+  "name": "待办调度",
   "version": "v1.0",
   "description": "定时待办与可选的早晚问候计划",
   "category": "tool",
